@@ -1,4 +1,4 @@
-<p align="left"><img  width="60%" height="100%" img src="https://telegra.ph/file/9e63e8c7fada94b4c900f.jpg" /></p>
+<p align="left"><img  width="70%" height="100%" img src="https://telegra.ph/file/9e63e8c7fada94b4c900f.jpg" /></p>
 
 ## 🔥====================🔆====================🔥
 - 🏷️ **I am** _HypeVoidSoul_ 😎
