@@ -5,7 +5,7 @@
 - 🎓 **I am**: college Student.
 - 🖥️ **Currently Learning:** Python, HTML, C, C# etc
 - 👨🏻‍💻 **All of my projects are available on:** 
-[Github](https://github.com/HypeVoidSoul?tab=repositories)| [HypeVoidLab_TelegramChannel](https://t.me/hypevoidlab)
+[Github](https://github.com/HypeVoidSouls?tab=repositories)| [HypeVoidLab_TelegramChannel](https://t.me/hypevoidlab)
 - 🔭 **I  mostly work with**: TelegramBots
 - 🇮🇳  **I'm am an:** _Indian _
 - 🗣️ **I Speak:** [Bengali](https://google.com/search?q=Bengali), [Hindi](https://google.com/search?q=Hindi),[Assamese](https://google.com/search?q=Assamese) and [English](https://google.com/search?q=English) Languages
