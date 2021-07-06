@@ -30,7 +30,7 @@
 <p align="left">
     <img
         width="50%"
-        src="https://github-readme-stats.vercel.app/api?username=HypeVoidSoul&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=HypeVoidSouls&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
 </p>
 
