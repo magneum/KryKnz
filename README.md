@@ -8,7 +8,7 @@
 [Github](https://github.com/HypeVoidSoul?tab=repositories)| [HypeVoidLab_TelegramChannel](https://t.me/hypevoidlab)
 - 🔭 **I  mostly work with**: TelegramBots
 - 🇮🇳  **I'm am an:** _Indian _
-- 🗣️ **I Speak:** [Bengalo](https://google.com/search?q=Bengali), [Hindi](https://google.com/search?q=Hindi),[Assamese](https://google.com/search?q=Assamese) and [English](https://google.com/search?q=English) Languages
+- 🗣️ **I Speak:** [Bengali](https://google.com/search?q=Bengali), [Hindi](https://google.com/search?q=Hindi),[Assamese](https://google.com/search?q=Assamese) and [English](https://google.com/search?q=English) Languages
 - 🎂 **I'm born on**: 2nd April.
 - ⚡ **Fun fact:** I can play all instruments and played around 300+ vgames
 - 🔨 **Languages and materials i use mostly**:  [Python](https://www.python.org) _[HTML](https://html.spec.whatwg.org/) _[Git](https://git-scm.com/) & [GitHub](https://github.com/)_
