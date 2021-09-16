@@ -2,7 +2,7 @@
 
 ## 🔥====================🔆====================🔥
 - 🏷️ **I am** _HypeVoidSoul_ 😎
-- 🎓 **I am**: college Student.
+- 🎓 **Studying?**: college Student.
 - 🖥️ **Currently Learning:** Python, HTML, C, Nodejs, C# etc
 - 👨🏻‍💻 **All of my projects are available on:** 
 [Github](https://github.com/HypeVoidSouls?tab=repositories)| [HypeVoidLab_TelegramChannel](https://t.me/hypevoidlab)
