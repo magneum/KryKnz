@@ -5,7 +5,7 @@
 - 🎓 **Studying?**: college Student.
 - 🖥️ **Currently Learning:** Python, HTML, C, Nodejs, C# etc
 - 👨🏻‍💻 **All of my projects are available on:** 
-[Github](https://github.com/HypeVoidSouls?tab=repositories)| [HypeVoidLab_TelegramChannel](https://t.me/hypevoidlab)
+[Github](https://github.com/krakinz?tab=repositories)| [HypeVoidLab_TelegramChannel](https://t.me/KrakinzLab)
 - 🔭 **I  mostly work with**: TelegramBots and DiscordBots
 - 🇮🇳  **I'm am an:** _Indian _
 - 🗣️ **I Speak:** [Bengali](https://google.com/search?q=Bengali), [Hindi](https://google.com/search?q=Hindi),[Assamese](https://google.com/search?q=Assamese) and [English](https://google.com/search?q=English) Languages
@@ -28,7 +28,7 @@
 <p align="left">
     <img
         width="50%"
-        src="https://github-readme-stats.vercel.app/api?username=HypeVoidSouls&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Krakinz&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
 </p>
 
