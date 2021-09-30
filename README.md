@@ -1,7 +1,7 @@
-<p align="left"><img  width="70%" height="100%" img src="https://telegra.ph/file/9e63e8c7fada94b4c900f.jpg" /></p>
+<p align="left"><img  width="70%" height="100%" img src="https://i.postimg.cc/BQ271CcZ/kraken1-1024x986.png" /></p>
 
 ## 🔥====================🔆====================🔥
-- 🏷️ **I am** _HypeVoidSoul_ 😎
+- 🏷️ **I am** _Krakinz_ 😎
 - 🎓 **Studying?**: college Student.
 - 🖥️ **Currently Learning:** Python, HTML, C, Nodejs, C# etc
 - 👨🏻‍💻 **All of my projects are available on:** 
@@ -18,13 +18,11 @@
 
 ## 🔥====================🔆====================🔥
 - ⚙️ **My Deploy service is** [Heroku](https://heroku.com)
-- 📫 **Reach me**: hypevoidsoul@gmail.com
+- 📫 **Reach me**: krakinzkon@gmail.com
 
 〽️ MΣΣƬ ӨЯ CΉΣCK ӨƬΉΣЯ BӨƬS
-- [![Generic badge](https://img.shields.io/badge/𝙲𝙰𝙻𝚃𝙸𝙽𝙵𝙾_𝙱𝙾𝚃-Vïå_ßð†-orange.svg)](https://t.me/HypeVoidBot) 
+- [![Generic badge](https://img.shields.io/badge/krakinzBot-Vïå_ßð†-orange.svg)](https://t.me/KrakinzBot) 
 𝘛𝘶𝘳𝘯 𝘰𝘯 𝘣𝘰𝘵 𝘪𝘯 𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘢𝘯𝘥 𝘵𝘺𝘱𝘦 /us
-- [![Generic badge](https://img.shields.io/badge/𝙺𝚁𝚈𝙾𝙺𝙴𝚈_𝙱𝙾𝚃-Vïå_ßð†-brown.svg)](https://t.me/kryoli_bot) 
-𝘎𝘦𝘵 𝘺𝘰𝘶𝘳 𝘬𝘳𝘺𝘰-𝘬𝘦𝘺 𝘧𝘳𝘰𝘮 𝘩𝘦𝘳!
 
 ## 🔥====================🔆====================🔥
 <p align="left">
