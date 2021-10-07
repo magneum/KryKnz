@@ -1,4 +1,4 @@
-<p align="left"><img  width="70%" height="100%" img src="https://i.postimg.cc/BQ271CcZ/kraken1-1024x986.png" /></p>
+<p align="left"><img  width="100%" height="50%" img src="https://i.postimg.cc/BQ271CcZ/kraken1-1024x986.png" /></p>
 
 ## 🔥====================🔆====================🔥
 - 🏷️ **I am** _Krakinz_ 😎
