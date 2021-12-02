@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://i.postimg.cc/5tgmf172/KRAKINZ.png" height="200px"/>
-</p>
+<img src="https://i.postimg.cc/5tgmf172/KRAKINZ.png" height="200px"/>
+
 ## 🔥====================🔆====================🔥
 - 🏷️ **I am** _Krakinz_ 😎
 - 🎓 **Studying?**: college Student.
