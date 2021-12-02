@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/5tgmf172/KRAKINZ.png" height="200px"/>
+<img src="https://i.postimg.cc/5tgmf172/KRAKINZ.png"/>
 
 ## 🔥====================🔆====================🔥
 - 🏷️ **I am** _Krakinz_ 😎
