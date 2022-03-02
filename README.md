@@ -1,3 +1,1 @@
-𝐊𝐑𝐀𝐊𝐈𝐍𝐙 𝐋𝐄𝐅𝐓 𝐀𝐍𝐃 𝐓𝐇𝐈𝐒 𝐀𝐂𝐂𝐎𝐔𝐓 𝐈𝐒 𝐎𝐅 𝐇𝐈𝐒 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐎𝐑 𝐊𝐑𝐘𝐊𝐍𝐙.
-
-𝐇𝐀𝐕𝐄 𝐅𝐔𝐍!
+This Account Is Now Maintained By KrakinzLab Team and Main Acct is in GitLab. So Join Any Support Group For any Querry!
